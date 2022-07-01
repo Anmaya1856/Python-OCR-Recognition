@@ -3,14 +3,14 @@ Python project OCR Recognition
 
 HOW TO RUN
 
-Read how to install modules.txt file first before running the code so that you install all the modules first otherwise you will face error
+Read how to install modules.txt first before running the code so that you install all the modules first otherwise you will face error
 
-Navigate to the folder where you unzipped the folder and then run the 3rd command. Example of how to navigate is given below in steps 1 and 2 -
+Navigate to the folder where you unzipped the folder and then run the app.py file. Example of how to navigate is given below in steps 1 and 2 -
 
 1) f:
 2) cd F:\College\Semester 4\Programming Language\Project
-3) venv\scripts\activate.bat
-4) app.py
+3) app.py
+4) open the link that you see on the your the command prompt (https://127.0.0.1:5000/) will be something like this
 
 ================================================================
 
